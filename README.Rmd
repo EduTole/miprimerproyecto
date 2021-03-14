@@ -10,3 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 # TITULO 1
 
 Mi primer entorno en GITHUB
+
+# TITULO 2
+
